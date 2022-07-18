@@ -4,11 +4,36 @@
 	"mods":[
 		{
 			"name":"StickPick",
-			"version":"1.2.1",
+			"version":"1.2.2",
 			"updated":"2021-16-7",
 			"description":"Pickup sticks/stones in a radius around you and/or allows for skipping the item inspection ui menu.",
 			"modURL":"https://github.com/brecheisen37/TLD-StickPick",
-			"downloadURL":"https://github.com/brecheisen37/TLD-StickPick/releases/download/v1.2.1/StickPick.dll",
+			"downloadURL":"https://github.com/brecheisen37/TLD-StickPick/releases/download/v1.2.2/StickPick.dll",
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.4.3.0"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"updater":{
+				"enable":true,
+				"downloads":[]
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		}
+		
+				{
+			"name":"Astrid_Makeover",
+			"version":"1.0.0",
+			"updated":"2021-18-7",
+			"description":"Astrid's face in the paperdoll ui in the clothing menu is improved.",
+			"modURL":"https://github.com/brecheisen37/TLD-Astrid-Makeover",
+			"downloadURL":"https://github.com/brecheisen37/TLD-Astrid-Makeover/releases/download/v1.0/Astrid_Makeover.zip",
 			"testedon":{
 				"tldversion":"1.99",
 				"mlversion":"0.4.3.0"
