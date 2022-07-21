@@ -49,6 +49,30 @@
 				"issues": "",
 				"notes": ""
 			}
+		},
+		 		{
+			"name": "RevealMap",
+			"version": "1.0.0",
+			"updated": "2022-7-21",
+			"description": "No more need for charcoal, everything is revealed automatically.",
+			"modURL": "https://github.com/brecheisen37/TLD-RevealMap/",
+			"downloadURL": "https://github.com/brecheisen37/TLD-RevealMap/releases/tag/v1.0",
+			"testedon": {
+				"tldversion": "1.99",
+				"mlversion": "0.4.3.0"
+			},
+			"dependencies": [
+				"ModSettings"
+			],
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"status": {
+				"working": true,
+				"issues": "",
+				"notes": ""
+			}
 		}
 	]
 }
