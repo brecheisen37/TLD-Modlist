@@ -3,8 +3,8 @@
 	"authorURL": "https://github.com/brecheisen37",
 	"mods": [{
 			"name": "StickPick",
-			"version": "1.2.2",
-			"updated": "2022-7-16",
+			"version": "1.2.3",
+			"updated": "2022-7-21",
 			"description": "Pickup sticks/stones in a radius around you and/or allows for skipping the item inspection ui menu.",
 			"modURL": "https://github.com/brecheisen37/TLD-StickPick",
 			"downloadURL": "https://github.com/brecheisen37/TLD-StickPick/releases/download/v1.2.2/StickPick.dll",
