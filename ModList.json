@@ -72,6 +72,29 @@
 				"working": true,
 				"issues": "",
 				"notes": ""
+			},
+					
+								"name": "Always Rest Maximum",
+			"version": "1.0.0",
+			"updated": "2022-7-23",
+			"description": "Always sleep until rested, with options to skip menus",
+			"modURL": "https://github.com/brecheisen37/TLD-RestMax/",
+			"downloadURL": "https://github.com/brecheisen37/TLD-RestMax/releases/tag/v1.0",
+			"testedon": {
+				"tldversion": "1.99",
+				"mlversion": "0.4.3.0"
+			},
+			"dependencies": [
+				"ModSettings"
+			],
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"status": {
+				"working": true,
+				"issues": "",
+				"notes": ""
 			}
 		}
 	]
