@@ -3,7 +3,6 @@
 	"authorURL": "https://github.com/brecheisen37",
 	"mods": [{
 			"name": "QuickPick",
-			"displayName": "StickPick",
 			"aliases":["StickPick"],
 			"previousAuthors": "<a href='https://github.com/DigitalzombieTLD' target='_blank'>Digitalzombie</a>",
 			"version": "2.0.0",
