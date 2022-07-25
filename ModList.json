@@ -2,12 +2,15 @@
 	"author": "Primadonna",
 	"authorURL": "https://github.com/brecheisen37",
 	"mods": [{
-			"name": "StickPick",
-			"version": "1.2.3",
-			"updated": "2022-7-21",
+			"name": "QuickPick",
+			"displayName": "StickPick",
+			"aliases":["StickPick"],
+			"previousAuthors": "<a href='https://github.com/DigitalzombieTLD' target='_blank'>Digitalzombie</a>",
+			"version": "2.0.0",
+			"updated": "2022-7-24",
 			"description": "Improves UI for picking up objects. Includes Stickpick by Digitalzombie.",
 			"modURL": "https://github.com/brecheisen37/TLD-StickPick",
-			"downloadURL": "https://github.com/brecheisen37/TLD-StickPick/releases/download/v1.3/StickPick.dll",
+			"downloadURL": "https://github.com/brecheisen37/TLD-QuickPick/releases/download/v2.0.0/QuickPick.dll",
 			"testedon": {
 				"tldversion": "1.99",
 				"mlversion": "0.4.3.0"
@@ -17,7 +20,7 @@
 			],
 			"updater": {
 				"enable": true,
-				"downloads": []
+				"downloads": [https://github.com/brecheisen37/TLD-QuickPick/releases/download/v2.0.0/QuickPick.dll]
 			},
 			"status": {
 				"working": true,
