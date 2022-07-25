@@ -21,8 +21,8 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					https://github.com/brecheisen37/TLD-QuickPick/releases/download/v2.0.0/QuickPick.dll
-				],
+					"https://github.com/brecheisen37/TLD-QuickPick/releases/download/v2.0.0/QuickPick.dll"
+				]
 			},
 			"status": {
 				"working": true,
