@@ -80,11 +80,11 @@
 					
 			"name": "Always Rest Maximum",
 			"displayName": "Rest Max",
-			"version": "2.0.0",
+			"version": "2.0.1",
 			"updated": "2022-7-26",
 			"description": "Better sleep menu options.",
 			"modURL": "https://github.com/brecheisen37/TLD-RestMax/",
-			"downloadURL": "https://github.com/brecheisen37/TLD-RestMax/releases/tag/v2.0",
+			"downloadURL": "https://github.com/brecheisen37/TLD-RestMax/releases/tag/v2.0.1",
 			"testedon": {
 				"tldversion": "1.99",
 				"mlversion": "0.4.3.0"
