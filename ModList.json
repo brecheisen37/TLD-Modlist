@@ -54,6 +54,7 @@
 				"notes": ""
 			}
 		},
+		 
 		{
 			"name": "RevealMap",
 			"version": "1.2.0",
@@ -78,6 +79,7 @@
 				"notes": ""
 			}
 		},
+		 
 		{
 			"name": "Always Rest Maximum",
 			"displayName": "Rest Max",
@@ -103,6 +105,7 @@
 				"notes": ""
 			}
 		},
+		 
 		{
 			"name": "AutoSave",
 			"displayName": "AutoSave",
