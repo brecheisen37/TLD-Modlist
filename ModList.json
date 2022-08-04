@@ -116,9 +116,11 @@
 			"dependencies": [
 				"ModSettings"
 			],
-			"updater": {
+		"updater": {
 				"enable": true,
-				"downloads": []
+				"downloads": [
+					"https://github.com/brecheisen37/TLD-Autosaves/releases/tag/v1.0.0"
+				]
 			},
 			"status": {
 				"working": true,
