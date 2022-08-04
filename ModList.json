@@ -124,7 +124,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/brecheisen37/TLD-Autosaves/releases/tag/v1.0.1"
+					"https://github.com/brecheisen37/TLD-Autosaves/releases/download/v1.0.1/AutosaveMod.dll"
 				]
 			},
 			"status": {
