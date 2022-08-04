@@ -3,7 +3,7 @@
 	"authorURL": "https://github.com/brecheisen37",
 	"mods": [{
 			"name": "QuickPick",
-			"aliases":["StickPick"],
+			"aliases": ["StickPick"],
 			"previousAuthors": "<a href='https://github.com/DigitalzombieTLD' target='_blank'>Digitalzombie</a>",
 			"version": "2.2.1",
 			"updated": "2022-7-28",
@@ -54,7 +54,7 @@
 				"notes": ""
 			}
 		},
-		 		{
+		{
 			"name": "RevealMap",
 			"version": "1.2.0",
 			"updated": "2022-7-21",
@@ -76,8 +76,9 @@
 				"working": true,
 				"issues": "",
 				"notes": ""
-			},
-					
+			}
+		},
+		{
 			"name": "Always Rest Maximum",
 			"displayName": "Rest Max",
 			"version": "2.0.1",
@@ -100,8 +101,9 @@
 				"working": true,
 				"issues": "",
 				"notes": ""
-			},
-					
+			}
+		},
+		{
 			"name": "AutoSave",
 			"displayName": "AutoSave",
 			"version": "1.0.0",
