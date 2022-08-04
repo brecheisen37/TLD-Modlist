@@ -109,11 +109,11 @@
 		{
 			"name": "AutoSave",
 			"displayName": "AutoSave",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"updated": "2022-8-3",
 			"description": "Adds Quicksaves, exit saves, animal trigger saves, lots of saves.",
 			"modURL": "https://github.com/brecheisen37/TLD-Autosaves",
-			"downloadURL": "https://github.com/brecheisen37/TLD-Autosaves/releases/tag/v1.0.0",
+			"downloadURL": "https://github.com/brecheisen37/TLD-Autosaves/releases/tag/v1.0.1",
 			"testedon": {
 				"tldversion": "1.99",
 				"mlversion": "0.4.3.0"
@@ -124,7 +124,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/brecheisen37/TLD-Autosaves/releases/tag/v1.0.0"
+					"https://github.com/brecheisen37/TLD-Autosaves/releases/tag/v1.0.1"
 				]
 			},
 			"status": {
