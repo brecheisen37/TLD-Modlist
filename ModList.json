@@ -54,7 +54,7 @@
 				"notes": ""
 			}
 		},
-		 
+
 		{
 			"name": "RevealMap",
 			"version": "1.3.0",
@@ -72,7 +72,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-				https://github.com/brecheisen37/TLD-RevealMap/releases/download/v1.3.0/RevealMap.dll
+					"https://github.com/brecheisen37/TLD-RevealMap/releases/download/v1.3.0/RevealMap.dll"
 				]
 			},
 			"status": {
@@ -81,7 +81,7 @@
 				"notes": ""
 			}
 		},
-		 
+
 		{
 			"name": "Always Rest Maximum",
 			"displayName": "Rest Max",
@@ -107,7 +107,7 @@
 				"notes": ""
 			}
 		},
-		 
+
 		{
 			"name": "AutoSave",
 			"displayName": "AutoSave",
