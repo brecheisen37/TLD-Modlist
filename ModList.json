@@ -134,6 +134,35 @@
 				"issues": "",
 				"notes": ""
 			}
+		},
+		 
+		 
+		{
+			"name": "SnowShelterDecay",
+			"displayName": "SnowShelterDecay",
+			"version": "0.1.0",
+			"updated": "2022-8-7",
+			"description": "Lets you adjust Snow Shelter Decay rate.",
+			"modURL": "https://github.com/brecheisen37/TLD-SnowShelterDecay/",
+			"downloadURL": "https://github.com/brecheisen37/TLD-SnowShelterDecay/releases/download/v0.1.0/SnowShelterDecay.dll",
+			"testedon": {
+				"tldversion": "1.99",
+				"mlversion": "0.4.3.0"
+			},
+			"dependencies": [
+				"ModSettings"
+			],
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/brecheisen37/TLD-SnowShelterDecay/releases/download/v0.1.0/SnowShelterDecay.dll"
+				]
+			},
+			"status": {
+				"working": true,
+				"issues": "",
+				"notes": ""
+			}
 		}
 	]
 }
