@@ -5,11 +5,11 @@
 			"name": "QuickPick",
 			"aliases": ["StickPick"],
 			"previousAuthors": "<a href='https://github.com/DigitalzombieTLD' target='_blank'>Digitalzombie</a>",
-			"version": "2.3.1",
-			"updated": "2022-8-5",
+			"version": "2.4.0",
+			"updated": "2022-8-7",
 			"description": "Improves UI for picking up objects. Includes Stickpick by Digitalzombie.",
 			"modURL": "https://github.com/brecheisen37/TLD-StickPick",
-			"downloadURL": "https://github.com/brecheisen37/TLD-QuickPick/releases/download/v2.3.1/QuickPick.dll",
+			"downloadURL": "https://github.com/brecheisen37/TLD-QuickPick/releases/download/v2.4.0/QuickPick.dll",
 			"testedon": {
 				"tldversion": "1.99",
 				"mlversion": "0.4.3.0"
@@ -20,7 +20,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/brecheisen37/TLD-QuickPick/releases/download/v2.3.1/QuickPick.dll"
+					"https://github.com/brecheisen37/TLD-QuickPick/releases/download/v2.4.0/QuickPick.dll"
 				]
 			},
 			"status": {
