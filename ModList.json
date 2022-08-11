@@ -8,7 +8,7 @@
 			"version": "2.4.0",
 			"updated": "2022-8-7",
 			"description": "Improves UI for picking up objects. Includes Stickpick by Digitalzombie.",
-			"modURL": "https://github.com/brecheisen37/TLD-StickPick",
+			"modURL": "https://github.com/brecheisen37/TLD-QuickPick/",
 			"downloadURL": "https://github.com/brecheisen37/TLD-QuickPick/releases/download/v2.4.0/QuickPick.dll",
 			"testedon": {
 				"tldversion": "1.99",
